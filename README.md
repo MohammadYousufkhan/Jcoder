@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting Sort
 |  |
