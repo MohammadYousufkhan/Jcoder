@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0922-sort-array-by-parity-ii) |
+| [1768-merge-strings-alternately](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1768-merge-strings-alternately) |
 ## Counting Sort
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
