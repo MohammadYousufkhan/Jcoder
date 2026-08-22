@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0258-add-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1768-merge-strings-alternately) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
