@@ -1,16 +1,27 @@
 class Solution {
     public int minimumSum(int num) {
-        int i=0;
-        int digit[]=new int[4];
-        while(num>0){
-            digit[i]=num%10;
-            num/=10;
-            i++;
+        int[] a = new int[4];
+
+       for(int i=0;i<4;i++){
+        a[i]=num%10;
+        num=num/10;
+       }
+       //sort the separated array
+       for(int i=0;i<4;i++){
+        for(int j=i+1;j<4;j++){
+            if(a[i]>a[j]){
+                int temp=a[i];
+                a[i]=a[j];
+                a[j]=temp;
+            }
         }
-        Arrays.sort(digit);
-        int new1=digit[0]*10+digit[2];
-        int new2=digit[1]*10+digit[3];
-        return new1+new2;
+       }
+        int num1=a[0]*10+a[2];
+        int num2=a[1]*10+a[3];
+       
+       return num1+num2;
+        
+
         
     }
 }
