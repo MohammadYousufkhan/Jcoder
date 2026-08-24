@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0922-sort-array-by-parity-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0922-sort-array-by-parity-ii) |
