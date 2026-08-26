@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -98,4 +100,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
