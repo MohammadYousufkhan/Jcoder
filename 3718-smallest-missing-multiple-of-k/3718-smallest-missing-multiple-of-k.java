@@ -1,14 +1,22 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        boolean[] present=new boolean[101];
-        for(int num:nums){
-            present[num]=true;
-        }
-        for(int x=k;x<=100+k;x+=k){
-            if(x>100||!present[x]){
+         int x = k;
+
+        while (true) {
+            boolean found = false;
+
+            for (int num : nums) {
+                if (num == x) {
+                    found = true;
+                    break;
+                }
+            }
+
+            if (!found) {
                 return x;
             }
+
+            x += k;
         }
-        return -1;
     }
 }
