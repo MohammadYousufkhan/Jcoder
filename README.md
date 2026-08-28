@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3477-fruits-into-baskets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
