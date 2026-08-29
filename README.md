@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
