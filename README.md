@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1768-merge-strings-alternately) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0877-stone-game) |
 ## Minimax
 |  |
