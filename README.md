@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0345-reverse-vowels-of-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
