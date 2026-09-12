@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0033-search-in-rotated-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0345-reverse-vowels-of-a-string) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3904-smallest-stable-index-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
