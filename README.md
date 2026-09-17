@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0643-maximum-average-subarray-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0567-permutation-in-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0643-maximum-average-subarray-i) |
