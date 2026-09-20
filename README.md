@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2090-k-radius-subarray-averages](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3477-fruits-into-baskets-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
