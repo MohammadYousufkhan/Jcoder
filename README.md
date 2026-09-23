@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0877-stone-game) |
 ## Minimax
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
