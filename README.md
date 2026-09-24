@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3477-fruits-into-baskets-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3477-fruits-into-baskets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MohammadYousufkhan/Jcoder/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MohammadYousufkhan/Jcoder/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammadYousufkhan/Jcoder/tree/master/3875-construct-uniform-parity-array-i) |
