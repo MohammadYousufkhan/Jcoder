@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0567-permutation-in-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0905-sort-array-by-parity) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MohammadYousufkhan/Jcoder/tree/master/0567-permutation-in-string) |
